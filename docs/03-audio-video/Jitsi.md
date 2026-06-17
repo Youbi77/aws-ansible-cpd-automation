@@ -1,9 +1,5 @@
 # Jitsi Meet - Videoconferencia
 
-**Máquina:** EC2-4 - Ubuntu 22.04 LTS  
-**IP pública:** 3.219.249.6  
-**Puertos:** 80, 443 TCP - 10000 UDP
-
 ---
 ## Índice
 
