@@ -1,7 +1,5 @@
 # Infraestructura AWS — InnovateTech
 
-**Responsable:** Bilal El Younossi  
-**Fecha:** Mayo 2026
 
 ---
 ## Índice
