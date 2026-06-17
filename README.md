@@ -1,4 +1,4 @@
-# Proyecto Transversal — InnovateTech CPD
+# Proyecto — InnovateTech CPD
 
 > Diseño e implementación de un Centro de Procesamiento de Datos (CPD) en la nube AWS para la empresa **InnovateTech**, incluyendo servicios multimedia, base de datos, directorio activo y gestión centralizada de logs.
 
