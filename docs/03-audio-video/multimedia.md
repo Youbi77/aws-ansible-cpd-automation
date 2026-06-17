@@ -1,9 +1,5 @@
 # Multimedia - Jellyfin (Streaming de Vídeo)
 
-**Máquina:** EC2-3 - Ubuntu 22.04 LTS  
-**IP pública:** 32.198.236.17  
-**Puerto:** 8096 TCP
-
 ---
 ## Índice
 
