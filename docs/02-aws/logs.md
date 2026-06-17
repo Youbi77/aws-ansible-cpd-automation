@@ -1,9 +1,5 @@
 # Logs Centralizados — Rsyslog + EFS
 
-**Responsable:** Bilal El Younossi  
-**Máquina:** logs-server-private (`10.0.133.107`) — Subnet privada  
-**Fecha:** Mayo 2026
-
 ---
 ## Índice
 
