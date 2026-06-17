@@ -1,12 +1,7 @@
-# Proyecto Transversal ASIXc1 — InnovateTech CPD
+# Proyecto Transversal — InnovateTech CPD
 
 > Diseño e implementación de un Centro de Procesamiento de Datos (CPD) en la nube AWS para la empresa **InnovateTech**, incluyendo servicios multimedia, base de datos, directorio activo y gestión centralizada de logs.
 
-**Grupo:** G4 (Taylor · Izan · Bilal · Serhii)  
-**Ciclo:** CFGS Administración de Sistemas Informáticos en Red  
-**Centro:** Institut Tecnològic de Barcelona  
-**Curso:** 2025–2026  
-**Entrega:** 28 de mayo de 2026
 
 ---
 # InnovateTech — Proyecto Transversal ASIX
@@ -89,17 +84,6 @@ InnovateTech es una empresa dedicada a la provisión de servicios tecnológicos 
 
 </div>
 
-
----
-
-## Equipo y responsabilidades
-
-| Miembro | Rol | Máquinas |
-|---------|-----|----------|
-| **Bilal** | Infraestructura AWS + Logs + Ansible | logs-server-private |
-| **Izan** | Base de datos + Ansible | mariadb + ansible-controller |
-| **Taylor** | Web + SFTP + Directorio Activo | web-sftp + samba-ad |
-| **Serhii** | Multimedia + Videoconferencias | multimedia + jitsi-meet |
 
 ---
 
