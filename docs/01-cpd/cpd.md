@@ -1,7 +1,5 @@
 # Propuesta de CPD — InnovateTech
 
-**Responsable:** Bilal El Younossi  
-**Fecha:** Mayo 2026
 
 ---
 ## Índice
