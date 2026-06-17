@@ -1,8 +1,5 @@
 # Ansible — Automatización de la infraestructura
 
-**Responsable:** Bilal El Younossi e Izan Velázquez Cerrato  
-**Máquina:** ansible-controller (`32.193.193.146` / `10.0.7.201`)  
-**Fecha:** Mayo 2026
 
 ---
 ## Índice
